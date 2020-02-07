@@ -4,3 +4,5 @@
 4.measuring cylinder
 5.pipette
 6.dropper
+7.test tube
+8.the ph meter
